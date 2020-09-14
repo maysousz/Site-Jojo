@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#wrap{
+    width: 980px;
+    margin: auto;
+    background: #8B0000;
+    padding: 20px 10px 10px;
+}
+header nav{
+    list-style: none;
+    padding-left: 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+}
+section{
+    list-style: none;
+    width: 960px;
+    text-align: justify;
+    align-content: center;
+
+}
+#content{
+    width: 960px;
+    margin: auto;
+    background: white;
+    padding: 20px 10px 10px;
+}

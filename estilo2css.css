@@ -1,0 +1,58 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://images8.alphacoders.com/755/thumb-1920-755323.jpg);
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+a:link, a:visited{
+    color: #F0F8FF;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+#wrap{
+    width: 960px;
+    margin: auto;
+    background: #8B0000;
+    padding: 10px 20px;
+}
+header nav ul{
+    list-style: none;
+    padding-left: 20px;
+    text-align: center;
+}
+header nav ul li{
+    display: inline-block;
+    margin-right: 10px;
+}
+header nav ul li a{
+    font-size: 18px;
+}
+section{
+    list-style: none;
+    width: 900px;
+    padding-left: 40px;
+    text-align: justify;
+    align-content: center;
+
+}
+#content{
+    width: 960px;
+    margin: auto;
+    background: white;
+    padding: 10px 20px;
+}
+#sidebar{
+    float: right;
+    width: 300;
+}
+#sidebar ul{
+    list-style: none;
+}
+footer{
+    clear: both;
+    text-align: center;
+}
